@@ -5,7 +5,7 @@
 Exploratory analysis of national suicide mortality trends in Australia \
 using AIHW National Mortality Database data (2024 release), examining \
 patterns by sex, age group, remoteness area, and psychosocial risk factors \
-across five analytical perspectives.\
+across five analytical perspectives.
 
 ## Background
 \
@@ -13,7 +13,7 @@ Suicide is the leading cause of death for Australians aged 15 to 44 and \
 a significant focus of national mental health strategy. This project uses \
 publicly available AIHW surveillance data to explore demographic and \
 geographic patterns in suicide mortality, with the aim of identifying \
-population groups and risk profiles relevant to prevention policy.\
+population groups and risk profiles relevant to prevention policy.
 
 ## Key Findings
 
@@ -29,7 +29,7 @@ Available at: https://www.aihw.gov.au/suicide-self-harm-monitoring/data/suicide\
 Tables used: NMD 1, NMD 5, NMD 13a, NMD 16, NMD 17.\
 \
 The raw data file is not included in this repository. Download it from \
-the link above and place it in the Data/ folder before running the notebooks.\
+the link above and place it in the Data/ folder before running the notebooks.
 
 ## How to Run
 
@@ -38,7 +38,7 @@ AIHW Excel file from the link above and place it in the Data/ folder. \
 Run the notebooks in order: 01_data_exploration, 02_data_cleaning, \
 03_analysis_visualisation. Each notebook is self-contained with explanatory \
 markdown cells throughout.
-\
+
 ## Limitations
 
 Deaths registered in 2023 and 2024 are based on preliminary data subject \
