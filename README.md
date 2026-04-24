@@ -31,7 +31,10 @@ population groups and risk profiles relevant to prevention policy.\
 - Personal history of self-harm (ICD-10 Z915) was the most frequently \
   documented psychosocial risk factor across all sex and age group \
   combinations in 2024, consistent with international literature on \
-  suicide risk stratification.\
+  suicide risk stratification. 
+  Using AIHW National Mortality Database (NMD) data in April 2026, covering ICD-10 codes X60-X84, Chart 1 shows female suicide rate peaking in 1971 at 10.4 and then plateauing to around 5-6 per 100 000 since 1980 whereas the male suicide rate peaked in the 1990s (1997 at 23.7), plateauing at around 18 - 20 from 2014 onwards. During this time, the male: female suicide ratio has remained constant at around 3:1. The Very Remote and Remote communities have consistently recorded a higher suicide rate than those in Major Cities (in 2024, it was 39.6 and 39.2 vs 15.2 in Major Cities at a ratio of ~2.6x). There has been a rise in youth suicides since 2004 for 15 - 17 and 5 - 17 age groups and from 2009 for 18 - 24 age group to a peak around 2020/2021. One limitation of this is that we do not have the ability to contextualise current youth rates against the broader historial trend seen in NMD1 for the national series (the rate dropped during the 2000s for all age groups but we cannot deduce whether 2001 was the peak or prior to 2001. A disclaimer too is that 2023 and 2024 are preliminary date (ie coronial lag would indicate that those years are undercounts). The rate of suicides is higher than rates from alcohol and drug-related despair for men, although upto around the mid-late 2000s, the rate of deaths from alcohol related offences was higher than that from drug related offences (rise of deaths from opioid overdoses coincide from this time onwards). All sexes and all age groups have the highest psychosocial risk factor of death from a personal history of self-harm, which is clinically significant and consistent with clincial literature research on this topic.
+  
+  /
 \
 ## Data Source\
 \
